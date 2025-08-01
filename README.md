@@ -1,6 +1,6 @@
 -  Hi, I’m Andone Darius
 -  I’m interested in front-end development
--  I’m currently learning javascrpit and react
+-  I’m currently learning react.
 -  How to reach me: andonedarius04@gmail.com
 -  Fun fact: I want to become a fashion designer
 
